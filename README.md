@@ -1,4 +1,4 @@
-### Hi there 👋
+I am a firm believer that living a life confined in a box of comfort will never cultivate success. Because of this, I seek out change, even when it isn't convenient. For these reasons, I know that I will bring a unique perspective to software development and the technology field. I will continue to grow and reinvent myself and my work. I know that ultimately, this can help me become an expert software engineer.
 
 <!--
 **ChristopherHenao/ChristopherHenao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
